@@ -145,7 +145,7 @@ ion-icon{
 
     .grid{
     margin: auto;
-    width: 80%;
+    /* width: 80%; */
     display: grid;
     grid-template-columns: 1fr ;
     grid-template-rows: auto;
@@ -180,6 +180,12 @@ ion-icon{
     border-radius: 30px;
     transition: 0.3s;
     box-shadow: 0px 11px 8px 3px rgb(124, 32, 211);
+}
+
+.gambar img{
+    height:300px;
+    width: 400px;
+    
 }
 
 }
